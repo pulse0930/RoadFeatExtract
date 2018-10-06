@@ -1,0 +1,14 @@
+trunk.json
+tertiary.json
+secondary.json
+primary.json
+track.json
+residential.json
+trunk_link.json
+unclassified.json
+living_street.json
+service.json
+path.json
+footway.json
+road.json
+pedestrian.json
